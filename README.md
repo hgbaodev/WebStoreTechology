@@ -6,10 +6,7 @@
 ![Alt text](./img/index.jpeg)
 
 #### Admin
-![Alt text](./assets/img/screen.jpeg)
-![Alt text](./assets/img/screen.jpeg)
-![Alt text](./assets/img/screen.jpeg)
-![Alt text](./assets/img/screen.jpeg)
-![Alt text](./assets/img/screen.jpeg)
-![Alt text](./assets/img/screen.jpeg)
-![Alt text](./assets/img/screen.jpeg)
+![Alt text](./img/adminlogin.jpeg)
+![Alt text](./img/admindashboard.jpeg)
+![Alt text](./img/addproduct.jpeg)
+![Alt text](./img/listproduct.jpeg)
