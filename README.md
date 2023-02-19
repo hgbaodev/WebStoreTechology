@@ -3,7 +3,7 @@
 
 ### Hình ảnh giao diện
 #### User
-![Alt text](.img/index.jpeg)
+![Alt text](./img/index.jpeg)
 
 #### Admin
 ![Alt text](./assets/img/screen.jpeg)
